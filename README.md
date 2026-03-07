@@ -181,7 +181,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Rex4Red&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Rex4Red&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -219,11 +219,22 @@
 <!-- 🔝 TOP CONTRIBUTED REPO                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🔝 Top Contributed Repos
+## 🔝 Top Repositories
 
 <div align="center">
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rex4Red&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/Rex4Red/Rex4Red">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rex4Red&repo=Rex4Red&theme=tokyonight&hide_border=true" alt="Rex4Red" />
+  </a>
+  <a href="https://github.com/Rex4Red/First-Project-Web">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rex4Red&repo=First-Project-Web&theme=tokyonight&hide_border=true" alt="First-Project-Web" />
+  </a>
+  <a href="https://github.com/Rex4Red/First_project_mobile">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rex4Red&repo=First_project_mobile&theme=tokyonight&hide_border=true" alt="First_project_mobile" />
+  </a>
+  <a href="https://github.com/Rex4Red/Tugas1_PrakPBO_123230161">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rex4Red&repo=Tugas1_PrakPBO_123230161&theme=tokyonight&hide_border=true" alt="Tugas1_PrakPBO_123230161" />
+  </a>
 
 </div>
 
