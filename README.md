@@ -8,7 +8,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Rex4Red">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Rex4Red;%F0%9F%9A%80+Full+Stack+Developer+%7C+Mobile+Dev;%F0%9F%8E%93+Informatics+Student+%40+UPN+Veteran+Yogyakarta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=500&height=55&lines=%F0%9F%91%8B+Hey+there!+I'm+Rex4Red;%F0%9F%9A%80+Full+Stack+%26+Mobile+Developer;%F0%9F%8E%93+Informatics+%40+UPN+Veteran+Yogya;%E2%9A%A1+Always+learning+something+new!" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
